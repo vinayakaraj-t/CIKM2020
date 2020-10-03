@@ -8,7 +8,7 @@
 # HOW TO RUN
 
 ``` sh
-python main.py [data_path] [external_data_indicator(1/0)] [path to external data] [path to the pretrained embedding file] [pretrained embedding name] [embedding size] [path to save model] [path to save test result] [use _CNN(1/0)]
+python main.py [data_path] [external_data_indicator(1/0)] [path_to_external_data] [path_to_the_pretrained_embedding_file] [pretrained_embedding name] [embedding_size] [path_to_save_model] [path_to_save_test_result] [use_CNN(1/0)]
 ```
 
 Here is an example
