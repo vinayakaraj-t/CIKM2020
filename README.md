@@ -2,10 +2,7 @@
  This is the 1st Place solution of CIKM2020 Analyticup COVID19 Retweet Prediction Challenge - https://competitions.codalab.org/competitions/25276.
  
 # MODEL ARCHITECTURE:
-![Alt text](model_architecture.pdf)
-
-# MODEL PERFORMANCE
-
+![Screenshot](model_architecture.png)
 
 
 # HOW TO RUN
@@ -16,7 +13,7 @@ Here is an example
 
 python test_file.py /projects/CIKM/ 1 /projects/CIKM/ /projects/CIKM/embeddings/glove.6B.300d.txt glove.840B.300d.txt 300 ./lstm_glove_model.ckpt ./test.predict test.data 0
 
-External dataset 
+External dataset  can be downloaded  from  the TweetsKB datasets provided here : https://data.gesis.org/tweetskb/. For this exercise , tweets from the months of April and March were used. 
 
 
 
