@@ -2,7 +2,7 @@
  This is the 1st Place solution of CIKM2020 Analyticup COVID19 Retweet Prediction Challenge - https://competitions.codalab.org/competitions/25276.
  
 # MODEL ARCHITECTURE:
-
+![Alt text](model_architecture.pdf)
 
 # MODEL PERFORMANCE
 
